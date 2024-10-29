@@ -10,10 +10,10 @@ const ibmPlexSerif = IBM_Plex_Serif({
 })
 
 export const metadata: Metadata = {
-  title: "pFynanceVault",
-  description: "pFynanceVault, Your trusted vault for modern financial solutions.",
+  title: "FynanceVault",
+  description: "FynanceVault, Your trusted vault for modern financial solutions.",
   icons: {
-    icon: '/icons/fv-logo-main.png'
+    icon: '/icons/fv-logo.svg'
   }
 };
 
